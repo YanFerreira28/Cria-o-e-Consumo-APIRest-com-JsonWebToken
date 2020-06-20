@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISControlAPI", "SISControlAPI\SISControlAPI.csproj", "{07E5B05A-19D7-477D-8F99-93DF72001DCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{9CFC03E1-89E3-4CA5-8DA8-2ED0701152FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{35A4E0CA-E978-47DD-A6A8-F92131722A5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{3B78B576-1563-44BF-9353-076DE62C2466}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{1D9D3821-48F0-4D3C-BCD4-165780798B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISControlAPI.Domain", "SISControlAPI.Domain\SISControlAPI.Domain.csproj", "{6D7E007D-BBE0-4154-9337-F4942AA43453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISControlAPI.Infra", "SISControlAPI.Infra\SISControlAPI.Infra.csproj", "{396F8FF5-8703-4567-9AE5-75BD086B2F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISControlWeb", "SISControlWeb\SISControlWeb.csproj", "{9260F4DF-2529-4618-986C-307FD90DD89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E5B05A-19D7-477D-8F99-93DF72001DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E5B05A-19D7-477D-8F99-93DF72001DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E5B05A-19D7-477D-8F99-93DF72001DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E5B05A-19D7-477D-8F99-93DF72001DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D7E007D-BBE0-4154-9337-F4942AA43453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D7E007D-BBE0-4154-9337-F4942AA43453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D7E007D-BBE0-4154-9337-F4942AA43453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D7E007D-BBE0-4154-9337-F4942AA43453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{396F8FF5-8703-4567-9AE5-75BD086B2F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396F8FF5-8703-4567-9AE5-75BD086B2F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396F8FF5-8703-4567-9AE5-75BD086B2F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396F8FF5-8703-4567-9AE5-75BD086B2F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9260F4DF-2529-4618-986C-307FD90DD89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9260F4DF-2529-4618-986C-307FD90DD89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9260F4DF-2529-4618-986C-307FD90DD89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9260F4DF-2529-4618-986C-307FD90DD89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{07E5B05A-19D7-477D-8F99-93DF72001DCE} = {3B78B576-1563-44BF-9353-076DE62C2466}
+		{6D7E007D-BBE0-4154-9337-F4942AA43453} = {35A4E0CA-E978-47DD-A6A8-F92131722A5E}
+		{396F8FF5-8703-4567-9AE5-75BD086B2F59} = {1D9D3821-48F0-4D3C-BCD4-165780798B82}
+		{9260F4DF-2529-4618-986C-307FD90DD89C} = {9CFC03E1-89E3-4CA5-8DA8-2ED0701152FC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13559CD1-76D1-486C-836E-61D041F99AA2}
+	EndGlobalSection
+EndGlobal
