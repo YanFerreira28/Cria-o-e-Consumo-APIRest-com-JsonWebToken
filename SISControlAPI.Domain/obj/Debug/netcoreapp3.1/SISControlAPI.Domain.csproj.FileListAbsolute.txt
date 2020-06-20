@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\bin\Debug\netcoreapp3.1\SISControlAPI.Domain.deps.json
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\bin\Debug\netcoreapp3.1\SISControlAPI.Domain.dll
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\bin\Debug\netcoreapp3.1\SISControlAPI.Domain.pdb
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\obj\Debug\netcoreapp3.1\SISControlAPI.Domain.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\obj\Debug\netcoreapp3.1\SISControlAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\obj\Debug\netcoreapp3.1\SISControlAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\obj\Debug\netcoreapp3.1\SISControlAPI.Domain.AssemblyInfo.cs
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\obj\Debug\netcoreapp3.1\SISControlAPI.Domain.dll
+C:\Users\alexa\source\repos\WebApplication2\SISControlAPI.Domain\obj\Debug\netcoreapp3.1\SISControlAPI.Domain.pdb
